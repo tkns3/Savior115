@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
   "id": "Savior115",
   "name": "Savior115",
-  "author": "",
-  "version": "0.0.1",
-  "description": "",
-  "gameVersion": "1.18.3",
+  "author": "tkns3",
+  "version": "0.1.0",
+  "description": "Just change BeatSaviorUI's accuracy ratio to accuracy percentage and points.",
+  "gameVersion": "1.40.0",
   "dependsOn": {
-    "BSIPA": "^4.2.0"
+    "BSIPA": "^4.3.6"
   }
 }
